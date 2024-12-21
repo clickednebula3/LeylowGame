@@ -1,0 +1,2 @@
+isJumpySlime = true;
+cantWakeUp = true;

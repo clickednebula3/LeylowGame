@@ -1,0 +1,2 @@
+activatePlayer = false;
+activateMonsCleared = true;

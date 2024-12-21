@@ -1,0 +1,51 @@
+Mechanics:
+The way items now work is that the original location is a spawner, it will spawn an item if the player doesn't have one
+
+
+The forest (Right) should have:
+XPond near start
+XXBucketable
+Xsomewhere there will be a place where youc an water a plant using a water bucket to get a rainbow flower
+XMaze shape (easy to exit, hard to reach deep)
+-mountin end?
+-campers/hikers
+
+The village (Left) should have:
+-some houses
+-some nice villagers
+-a water well
+-a fork as the exits (not accessible till a quest is done)
+
+
+
+Areas (in order of story):
+> Leylow's House
+> Moist Forest
+> Tily Town
+> Mystic Cave (Rename to MysCave?)
+> Mystic Tree
+> Grayscale Mountain
+> Castle Corp
+> Colorless Heights
+> Dragon Nest
+> The Beach
+> Flower Forest
+
+
+Monster Ideas:
+> ?? (Forest/Flower)
+  > Bee
+  > Cat
+  
+> Gra (Cave - Forest) (The river is said to come from the mountain's inner depths)
+  > Slime (Jumpy)
+  > Stiki/Stikus (Waves Up to collect moist)
+  
+> My /Meh/ (Cave)
+  > Slime (Slidey)
+  > Stkiki/Stikus (Searches around - Targets moving things)
+  
+> ?? (Mountain)
+  > Spider (Likes spikey things (e.g. sword) - Fire weakness)
+  > Cat/Frog (Marhsmellow like - Immune to spikey things due to softness - Fire weakness)
+  

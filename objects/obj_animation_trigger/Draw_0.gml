@@ -1,0 +1,1 @@
+draw_sprite(spr, sprI, ((bbox_right+bbox_left)/2)+xOff, ((bbox_top+bbox_bottom)/2)+yOff);

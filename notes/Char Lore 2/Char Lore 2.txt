@@ -1,0 +1,55 @@
+#Food / Fabric (green) Duo
+[Rad] Farmer + Lumber/Woodworker
+[FARMER (not really)] Gatherer (Berries/Fruit/Herbs) + Makes Fabric/Twine
+
+#Arts Duo
+[Haylie] Barber + Chef
+[Ray] Leatherworker (?rarily) + Cuts the Fabric/Twine into bed_sheets/blankets/clothes/other_stuffs
+
+#Elders
+[Capsule] Captain/Leader + Healer
+[Celadon] Teacher (Wisdom)
+
+[Lue] Iron Smith + Mason Worker
+[Teacher (not really)] (smth scientific) Trainee Healer/Magician + //?Trainee Leader
+//kept some papers about the industrial thingamarevolution
+
+[Leylow] Occasional Hunter + Island Explorer (reports map + mobs)
+//(emotionally?) not ready yet; too young
+
+//[BUTCHER/LEATHERWORKER/ANIMAL Guy/CHEESE+Preserverss food] [PINK/WHITE/] 
+//knew rad before ISLAND. less close than rad x lue
+//thinks lue has more potential. he could do more if he was less lazy.
+//workaholic: always doing something
+//considerate: takes ray's opinion  abt leatherworker; knows likes/dislikes of others; worries abt leylow
+
+
+
+LIST OF MOBS
+
+> Mons
+-Slime
+-Pokes
+-
+-
+-Dragon (sheds scales for armor)
+
+> Anims
+-[W] Rabbie
+-[W] bee
+-[W] Fish
+
+/*
+	[W]	bear
+		chickens (eggs; feathers for arrows/pillows)
+	[G]	cows (leather; milk) //leather requires specific technique, even post-harvest
+	[G]	sheep (wool) //not a must; linen for clothes
+	
+*/
+//KEY:
+//[W] = Wild
+//[G] = graze
+
+
+
+

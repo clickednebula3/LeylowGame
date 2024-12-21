@@ -1,0 +1,11 @@
+1  - rm_leylowHome -  Intro to the game
+2  - rm_grayscalemountain - Player finds leylow at the forest at the "deadend", GET HAT and TORCH
+3  - 2 - ACCEPT PARTY
+4  - 2 - DENY PARTY
+5  - 3 - rm_leylowHome - SLEEP for next day
+6  - 3 5 - rm_LeylowHomeOutside - leylow heads to TOWN
+7  - 3 6 - rm_tily_town - Intro to town and leylow heads to blacksmith
+8  - 3 7 - rm_tily_town - GET ITEMS and leylow heads to cave entrance (maybe forest on the way?)
+9  - 4 - rm_leylowHome - still get to sleep
+10 - 4 9 - rm_LeylowHomeOutside - leylow heads to TOWN but lonelier
+11 - 4 10 - rm_tily_town

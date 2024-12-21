@@ -1,0 +1,2 @@
+activateParty = true;
+activatePlayer = false;

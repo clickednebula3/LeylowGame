@@ -1,0 +1,1 @@
+spr = spr_town_house;

@@ -1,0 +1,1 @@
+myColor = c_white;

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sylla_check_has_item",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sylla_check_has_item",
+  "parent":{
+    "name":"Sylla",
+    "path":"folders/Scripts/Sylla.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

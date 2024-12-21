@@ -1,0 +1,1 @@
+item_drop = item_needle;

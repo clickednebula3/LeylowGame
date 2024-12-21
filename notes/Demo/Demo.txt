@@ -1,0 +1,58 @@
+Checklist:
+-Intro to how the game will feel.
+-Main mission to embark on.
+-At least 2 fun side-quests.
+-Slimes, Bunnies, Grasticki!
+-Leylow, at least a mention of CastleCorp
+
+Choice Impact: *Not Much, **Much, ***Story Changing
+
+{Intro}
+You wake up and notice you're healing from damage.
+You're in a Bed and you don't remember anything.
+Leylow introduces himself.
+He's an adventurer who found you "fainted" in the woods.
+He asks you for your name, which you do not remember.
+Leylow lets you stay the night. He lost/forgot something in the forest, so he will bring it.
+
+*Choice: [Stay/Sleep] - [Search Forest]
+
+[Sleep]
+	You wake up the next day. (see {Day 1})
+	You find Leylow sleeping with the sleeping bag.
+	He got you your hat back!
+	He said it fell when he tried to bring you here.
+[Search Forest]
+	Very calm atmosphere, you grow sleepy.
+	You face some Sleepy slimes and Anxious bunnies that you can just dodge.
+	There is not really a danger unless you disturb a slime a lot tbh.
+	Eventually, you find leylow.
+	He got you your hat back!
+	He said it fell when he tried to bring you home.
+	He likes your adventuring spririt, but it's really late and you two should sleep.
+	
+	Next day, Leylow wakes you up energatically!
+
+{Day 1}
+He asks if you got your memory back. (no)
+He makes a deal:
+You get to live in his house as his roommate, as long as you also become his adventure-mate and go on some adventures with him!
+At least until you get your memory.
+Leylow: oh I'll even help you get your memory back!
+
+Choice: [Sure!] - [Undoubtably!] - /*[I'll uh- go elsewere]*/
+
+[Sure!] - [Undoubtably!]
+	Leylow: That's awesome! Exploration Team!
+		I know a place that's good for practice.
+		Join my PARTY so we could start.
+	You join LEYLOW's PARTY.
+	Two Profiles Show up.
+		Notice the two cards that showed up?
+		These are PARTY PROFILES. They show important information about PARTY MEMBERS.
+		Hover over one of them. [Hover (sticks up)]. Those small slots represent your ITEM CARDS.
+		You can click on two of them to swap them. You can even swap with party members! If they're close that is.
+		Press 1,2,3,or4 to choose an item from the top row.
+	
+//[I'll uh- go elsewhere]
+	

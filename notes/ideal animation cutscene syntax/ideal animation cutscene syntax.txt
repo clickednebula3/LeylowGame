@@ -1,0 +1,30 @@
+//old format: [xOff, yOff, seconds, sprI, isText, textWhileMoving, isInstantText, ChangesPlyrSpr, plyrSpr, xOffPlyr, xOffPlyr]
+//(textWhileMoving clears by force when seconds is finished)
+everything is optional and has a default value
+maybe save on a map?
+
+Frame:
+-Seconds 1 //-1 to require key press (for textboxes ig)
+
+-TextBox
+--visible false
+--instant false
+
+-Camera
+--moveX 0
+--moveY 0
+
+-Player
+--SprIndex -1 (no change)
+--ImgIndex -1
+--moveX 0
+--moveY 0
+
+-Characters
+--Character
+---SprIndex
+---ImgIndex
+---startX
+---startY
+---moveX
+---moveY

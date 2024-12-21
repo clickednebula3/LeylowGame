@@ -1,0 +1,1 @@
+other.Health -= 0.2;

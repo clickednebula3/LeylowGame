@@ -1,0 +1,1 @@
+fadeTimer = sec*5;
